@@ -1,0 +1,128 @@
+/*MAIN PAGE*/
+
+.gamers-tag{
+	font-family: 'Press Start 2P', cursive;
+  font-size: 26px;
+}
+
+.gamers-tag2{
+	font-family: 'Russo One', sans-serif;
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+/*ABOUT US*/
+#about { padding: 80px 25px; }
+
+#about { padding: 100px 50px; }
+.container_small, .container_big {
+	width: 100%;
+	margin: 0 auto;
+}
+.container_small {max-width: 900px;}
+
+.section_title {
+	margin: 0 0 15px 0;
+	color: white;
+	font-size: 40px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+#about_2nd{
+	background-color: #EDEDED;
+	padding: 100px 100px
+}
+
+.section_2nd_title{
+
+	font-size: 30px;
+    line-height: 28px;
+    color: black;
+    margin-bottom: 25px
+}
+
+.section_2nd_para{
+	font-size: 18px;
+	max-width: 650px;
+    line-height: 28px;
+    color: black;
+    margin-bottom: 25px
+}
+
+#about_3nd{
+	padding: 100px 100px
+}
+
+.section_3nd_title{
+
+	font-size: 30px;
+    line-height: 28px;
+    color: white;
+    margin-bottom: 25px
+}
+
+.section_3nd_para{
+	font-size: 18px;
+	/*max-width: 950px;*/
+    line-height: 28px;
+    color: white;
+    margin-bottom: 25px
+}
+
+#about_4nd{
+	background-color: #EDEDED;
+	padding: 100px 100px
+}
+
+.section_4nd_title{
+
+	font-size: 30px;
+    line-height: 28px;
+    color: black;
+    margin-bottom: 25px
+}
+
+.section_4nd_para{
+	font-size: 18px;
+	max-width: 650px;
+    line-height: 28px;
+    color: black;
+    margin-bottom: 25px
+}
+
+.image{
+	position: absolute;
+    right: 150px;
+    top: 430px;
+
+}
+
+
+.cover-para {
+	margin: 0 0 15px 0;
+	max-width: 720px;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 auto;
+    color: #a3a0b3;
+}
+.partners:hover {
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(0%);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(0%);
+  -o-transition: .5s ease-in-out;
+} 
+
+.partners {
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(100%); 
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(100%); 
+  -o-transition: .5s ease-in-out;
+}
